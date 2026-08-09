@@ -2,10 +2,6 @@
 
 Senior React Native engineer. TypeScript, React Native, Realm.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ravnitsuri/ravnitsuri/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ravnitsuri/ravnitsuri/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ravnitsuri/ravnitsuri/output/github-snake.svg" />
-</picture>
+![snake gif](https://github.com/ravnitsuri/ravnitsuri/blob/output/github-snake-dark.svg)
 
 [LinkedIn](https://www.linkedin.com/in/ravnitsuri/)
