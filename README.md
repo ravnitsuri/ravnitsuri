@@ -2,6 +2,6 @@
 
 Senior React Native engineer. TypeScript, React Native, Realm.
 
-![snake gif](https://github.com/ravnitsuri/ravnitsuri/blob/output/github-snake-dark.svg)
+![github contribution snake](https://raw.githubusercontent.com/ravnitsuri/ravnitsuri/output/ocean.gif)
 
 [LinkedIn](https://www.linkedin.com/in/ravnitsuri/)
